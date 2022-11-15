@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war: Wagner chief Prigozhin defends brutal killing video",
+      "description": "Putin ally Yevgeny Prigozhin says a defector to Ukraine died \"a dog's death for a dog\".",
+      "url": "http://www.bbc.co.uk/news/world-europe-63623285",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14778/production/_127623838_2022-11-1319.26.33.png",
+      "publishedAt": "2022-11-14T13:37:21.0139266Z",
+      "content": "The head of private Russian military group Wagner has defended a brutal video apparently showing the death of a mercenary who defected to Ukraine.\r\nPutin ally Yevgeny Prigozhin said unverified footag… [+2411 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Virginia University shooting: Three killed, suspect at large",
+      "description": "The suspect, who police believe is a student, is still at large and said to be \"armed and dangerous\".",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63624611",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3194/production/_127629621_gettyimages-466974692.jpg",
+      "publishedAt": "2022-11-14T13:07:23.9513917Z",
+      "content": "At least three people were killed and two others were injured in a shooting on the University of Virginia campus, authorities said early Monday morning.\r\nThe suspect remains at large and has been des… [+1293 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Afghanistan: Taliban leader orders Sharia law punishments",
+      "description": "Afghan judges are told to enforce Islamic law that may include public executions and stoning.",
+      "url": "http://www.bbc.co.uk/news/world-asia-63624400",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1C61/production/_119956270_haibatullah'slargerpic.jpg",
+      "publishedAt": "2022-11-14T12:52:23.8418959Z",
+      "content": "Taliban leader Haibatullah Akhundzada has ordered Afghan judges to impose punishments for certain crimes that may include public amputations and stoning.\r\nHis spokesman said offences such as robbery,… [+2862 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Country star Dolly Parton gets $100m award from Amazon founder Jeff Bezos",
+      "description": "The Amazon founder commended the country music star for her commitment to improving literacy.",
+      "url": "http://www.bbc.co.uk/news/business-63619512",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CF3C/production/_127625035_gettyimages-1439438748.jpg",
+      "publishedAt": "2022-11-14T10:52:19.6546341Z",
+      "content": "Country music star and philanthropist Dolly Parton has been awarded a $100m (£84.8m) prize by Jeff Bezos.\r\nThe multi-billionaire founder of Amazon announced the award alongside his partner, Lauren Sa… [+1297 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Iran protests: Tehran court sentences first person to death over unrest",
+      "description": "It is the first time since protests erupted, with the accused found guilty of \"enmity against God\".",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-63621330",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4C74/production/_127627591_59f5ee883968a44fe7c13834fcebbfbe6cb165d4.jpg",
+      "publishedAt": "2022-11-14T10:37:17.0769046Z",
+      "content": "A court in Iran has issued the first death sentence to a person arrested for taking part in the protests that have engulfed the country, state media say.\r\nThe Revolutionary Court found the defendant,… [+2586 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Istiklal Street: Istanbul's beating heart reels from deadly blast",
+      "description": "Locals are returning to Istiklal Street, the busy thoroughfare where six were killed on Sunday.",
+      "url": "http://www.bbc.co.uk/news/world-europe-63621424",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0688/production/_127627610_adem.jpg",
+      "publishedAt": "2022-11-14T09:52:25.8259021Z",
+      "content": "The video was short, but graphic. Sunday-afternoon crowds suddenly scattered by the sound of an explosion. Orange flames and black smoke rising into the air as people ran for their lives.\r\nHours late… [+3846 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Kherson: President Zelensky visits liberated city",
+      "description": "The regional capital was liberated on Friday after being taken by Russia in March.",
+      "url": "http://www.bbc.co.uk/news/world-europe-63621426",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17CC0/production/_127627479_2022-11-14t092720z_1530916783_rc2llx9wmq4k_rtrmadp_3_ukraine-crisis-kherson-zelenskiy.jpg",
+      "publishedAt": "2022-11-14T09:37:18.7637033Z",
+      "content": "President Volodymyr Zelensky has visited the city of Kherson days after it was liberated by Ukrainian troops.\r\nHe spoke to soldiers gathered in the city, saying Ukraine is \"moving forward\" and is rea… [+1574 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC Sport",
+      "title": "Ronaldo says he feels 'betrayed' by Man Utd",
+      "description": "Cristiano Ronaldo says he feels \"betrayed\" by Manchester United and that he is being forced out of the club.",
+      "url": "http://www.bbc.co.uk/sport/football/63619074",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/16A46/production/_127624729_hi079935807.jpg",
+      "publishedAt": "2022-11-14T06:52:22.1822758Z",
+      "content": "MOTD2 Analysis: 'Ronaldo can't be involved in the team now', says Jermaine Jenas\r\nCristiano Ronaldo says he feels \"betrayed\" by Manchester United and is being forced out of the club.\r\nRonaldo, 37, pr… [+3682 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Biden and Xi to meet in Bali as US-China ties sour",
+      "description": "The leaders of the world's biggest economies will hold talks, with Taiwan top of their agenda.",
+      "url": "http://www.bbc.co.uk/news/live/world-asia-63593855",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2022-11-14T04:22:24.1082905Z",
+      "content": "After numerous phone calls and virtual meetings, Joe Biden and Xi Jinping will once again get a chance to size each other up in person in Bali.\r\nThe meeting between the heads of the worlds biggest su… [+1275 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US midterms: Republicans blame Trump and McConnell for poor showing",
+      "description": "Donald Trump and Mitch McConnell get heat from colleagues after the Democrats keep control of the Senate.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63618188",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/152CC/production/_127623768_gettyimages-1244654733.jpg",
+      "publishedAt": "2022-11-13T18:37:17.8906637Z",
+      "content": "News that Democrats have held the US Senate after midterm elections this week has sparked recriminations within the Republican Party.\r\nCritics of former President Donald Trump blamed him for the poor… [+2533 chars]"
+    }
+  ]
+}
